@@ -1,2 +1,2 @@
 # wscada
-wave power plant SCADA function 
+Maritime Wave Power Plant SCADA functions 
